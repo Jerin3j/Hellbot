@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://github.com/Jerin3j/JERIN-SER/blob/0161fb16309c2f13f0903629d7b7a687f993c329/tuxpi.com.1626457957.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://github.com/Jerin3j/JERIN-SER/blob/1aab4bfcd1550285f0f89dfa7abeb50ad4761caa/IMG_20210728_062614.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Mayavi" src="https://img.shields.io/badge/-Mayavi-yellow"></a>
 </p>
