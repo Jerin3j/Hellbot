@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Jerin3j">Jerin-3J</a> to make it 
     <img src="https://img.shields.io/github/repo-size/Jerin3j/Mayavi?yellowcolor=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Jerin3j/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jerin3j?color=blue&style=flat-square"></a>
-<a href="https://github.com/Jerin3j/Mayavi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jerin3j/3J-B0T?color=blue&style=flat-square"></a>
+<a href="https://github.com/Jerin3j/Mayavi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jerin3j/Mayavi?color=blue&style=flat-square"></a>
 <a href="https://github.com/Jerin3j/Mayavi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jerin3j/Mayavi?color=blue&style=flat-square"></a>
 <a href="https://github.com/Jerin3j/Mayavi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jerin3j/Mayavi?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
