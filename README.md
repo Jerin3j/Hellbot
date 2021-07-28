@@ -4,7 +4,7 @@
 <a href="#"><img title="Mayavi" src="https://img.shields.io/badge/-Mayavi-yellow"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=darkblue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=darkgreen&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
