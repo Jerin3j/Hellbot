@@ -1,14 +1,14 @@
 <div align="center">
   <img border-radius: 15px src="https://github.com/Jerin3j/JERIN-SER/blob/1aab4bfcd1550285f0f89dfa7abeb50ad4761caa/IMG_20210728_062614.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Mayavi" src="https://img.shields.io/badge/-Mayavi-redyellow"></a>
+<a href="#"><img title="Mayavi" src="https://img.shields.io/badge/-Mayavi-yellow"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=darkgreen&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Jerin3j">Jerin-3J</a> to make it public
+Bot created by <a href="https://github.com/Jerin3j">Jerin-3J</a> to make it public
     <br>
        | © |
         Reserved |
