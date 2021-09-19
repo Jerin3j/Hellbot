@@ -102,21 +102,21 @@ $ node julie.js
 
        
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jerin3J-B0T&repo=3&theme=nightowl)](https://github.com/Jerin3j/3J-B0T)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jerin3J-B0T&repo=
 
-  </div>
+
 
     
 
-### ⚠️ Warning! 
 
-```
 
-Due to Userbot; Your WhatsApp account may be banned.
 
-This is an open source project, you are responsible for everything you do. 
 
-Absolutely, Asena executives do not accept responsibility.
+
+
+
+
+
 
 
 
