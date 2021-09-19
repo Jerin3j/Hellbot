@@ -12,13 +12,13 @@
 
 <img src="https://github.com/Jerin3j/JERIN-SER/blob/a0bf76e97991bf23e1da585e1ae24bab229ae491/Hellboys.jpg" width="300" height="250"/>
 
-</p>
+
 
   <p align="center">
 
 <a
 
-href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=darkgreen&style=for-the-badge&logo=whatsapp"><
+mg title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=darkgreen&style=for-the-badge&logo=whatsapp"><
 
 /a>
 
