@@ -18,7 +18,8 @@
 
 <a
 
-href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=red&style=for-the-badge&logo=whatsapp"></a>
+href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=red&style=for-the-badge&logo=whatsapp"><
+ /a>
 
 </p>
 
