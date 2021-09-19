@@ -93,27 +93,14 @@ $ node julie.js
 ----
 
   <p align="center">
-
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
-
-    
-
-<a href="https://github.com/farhan-dqz/followers">
-
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
-
+<a href="https://github.com/Jerin3j">
+    <img src="https://img.shields.io/github/repo-size/Jerin3j/3J-B0T?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-
-<a href="https://github.com/farhan-dqz/followers"
-
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
-
+<a href="https://github.com/Jerin3j/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jerin3j?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jerin3j/3J-B0T?color=blue&style=flat-square"></a>
+<a href="https://github.com/Jerin3j/3J-B0T/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jerin3j/3J-B0T?color=blue&style=flat-square"></a>
+<a href="https://github.com/Jerin3j/3J-B0T/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jerin3j/3J-B0T?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
        
