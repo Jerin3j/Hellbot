@@ -102,7 +102,7 @@ $ node julie.js
 
        
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jerin3J-B0T&repo=3&theme=nightowl)](https://github.com/Jerin3j/3J-B0T)
 
   </div>
 
@@ -118,9 +118,9 @@ This is an open source project, you are responsible for everything you do.
 
 Absolutely, Asena executives do not accept responsibility.
 
-By establishing the Asena, you are deemed to have accepted these responsibilities.
 
-```
+
+
 
 
 
