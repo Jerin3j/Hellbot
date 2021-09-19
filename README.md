@@ -22,19 +22,7 @@
 
 </div>
 
-<p align="center">
-
-Project created by <a href="https://github.com/Jerin3j">Jerin 3J</a> to make it public
-
-    <br>
-| © | Reserved |
-    <br> 
-
-</p>
-
-## Setup
-
-<div align="center">
+<p
 
   ### Simple Method
 
