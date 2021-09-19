@@ -16,7 +16,7 @@
 
   <p align="center">
 
-<a href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3j/JAVA?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-JAVA?color=red&style=for-the-badge&logo=whatsapp"></a>
 
 </p>
 
