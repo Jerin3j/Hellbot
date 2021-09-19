@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Amalser_v2+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Hellbot+WA+Bot+repo;Created+by+Java;This+is+a+user+friendly+bot+of+hellboys;With+more+features)](https://git.io/typing-svg)
 
  </a>
 
@@ -24,14 +24,10 @@
 
 <p align="center">
 
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/Jerin3j">Jerin 3J</a> to make it public
 
     <br>
-
-       | © |
-
-        Reserved |
-
+| © | Reserved |
     <br> 
 
 </p>
@@ -144,11 +140,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
     
 
-  [![JAVEX-JAVA](https://github.com/Jerin3j.png?size=100)](https://github.com/Jerin3j) | ) 
+  [![JAVEX-JAVA](https://github.com/Jerin3j.png?size=100)](https://github.com/Jerin3j) 
 
 ----|----|----|----
 
-[JAVEX-JAVA](https://github.com/Jerin3j) | ) 
+[JAVEX-JAVA](https://github.com/Jerin3j ) 
 
 Developer, Base, Bug Fixes, Modules| 
 
