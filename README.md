@@ -16,7 +16,7 @@
 
  <p align="center">
 
-<a href="#"><img title="HELLBOT" src="https://img.shields.io/badge/-Hellbot-black"></a>
+<a href="#"><img title="HELLBOT" src="https://img.shields.io/badge/-Hellbot-darkred"></a>
 
 </p>
  
@@ -24,7 +24,7 @@
 
   
 
-<a href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=darkred&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jerin3j"><img title="Author" src="https://img.shields.io/badge/Author-Jerin3J-B0T?color=navy&style=for-the-badge&logo=whatsapp"></a>
 
 </p>
 
