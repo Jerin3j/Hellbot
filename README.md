@@ -10,7 +10,7 @@
 
   <p align="center">
 
-<img src="https://github.com/Jerin3j/JERIN-SER/blob/a0bf76e97991bf23e1da585e1ae24bab229ae491/Hellboys.jpg" width="300" height="250"/>
+<img src="https://github.com/Jerin3j/JERIN-SER/blob/a0bf76e97991bf23e1da585e1ae24bab229ae491/Hellboys.jpg" width="200" height="200"/>
 
 </p>
 
