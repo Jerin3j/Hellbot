@@ -122,25 +122,25 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ```
 
-## Developers
 
-  <div align="center">
 
-    
 
-  [![JAVEX-JAVA](https://github.com/Jerin3j.png?size=100)](https://github.com/Jerin3j) 
-
-----|----|----|----
-
-[JAVEX-JAVA](https://github.com/Jerin3j ) 
-
-Developer, Base, Bug Fixes, Modules| 
-
-  </div>
 
     
 
-## License
+
+
+
+
+
+
+
+
+
+
+    
+
+
 
 
 
