@@ -262,8 +262,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ Hellbot ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA*' +
-                                    '\n\n*⚠️ ' + error + '*\n'
+                                    '\n*🍭 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCPsA8F2BtF7aiHMmAWQ7wcg*' +
+                                    '\n\n*⚠️ ' + error! + '*\n'
                                     , MessageType.text);
                             }
                         }
