@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Hellbot by Java <3 jerin 3j*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Hellbot by Java 🌟 Jerin 3j*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text);
@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Hellbot by Java <3 jerin 3j*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Hellbot by Java 🌟 Jerin 3j*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
