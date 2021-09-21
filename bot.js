@@ -263,7 +263,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ Hellbot ~______~*' +
                                     '\n*🍭 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCPsA8F2BtF7aiHMmAWQ7wcg*' +
-                                    '\n\n*⚠️ ' + error! + '*\n'
+                                    '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
                         }
