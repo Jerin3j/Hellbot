@@ -61,7 +61,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         
-const array = ['ok', 'mention']
+const array = ['Jerin']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -94,7 +94,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads2/mentio
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads2/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['ok', 'mention']
+const array = ['Hi']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -122,7 +122,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '919526941079@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['ok' ,'mention']
+const array = ['Hi']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -141,7 +141,7 @@ filtreler.map(
         }
     }
 );
-}));
+})); 
     
     async function checkUsAdmin(message, user = message.data.participant) {
     var grup = await message.client.groupMetadata(message.jid);
